@@ -9,7 +9,7 @@ global.email = 'queen-anya-md@gmain.com'
 global.github = 'https://github.com/Hex-ULTRA-Tech-Ofc/QueenAnyaMD'
 global.location = 'Sultanpur IN'
 global.sudo = process.env.SUDO || '94711449492'
-global.devs = '94711449492';
+global.devs = '8085274623';
 global.website = 'https://github.com/Hex-ULTRA-Tech-Ofc/QueenAnyaMD' //wa.me/+94000000000000
 module.exports = {
   botname: process.env.BOT_NAME || 'Qᴜᴇᴇɴ 𝙰𝚗𝚢𝚊 ᴍᴅ',
@@ -31,7 +31,7 @@ module.exports = {
   antilinkaction: process.env.ANTILINK_ACTION || 'remove',
   BRANCH: 'master',
   VERSION: process.env.VERSION === undefined ? 'v.0.0.3' : process.env.VERSION,
-  WORKTYPE: process.env.WORKTYPE === undefined ? 'public' : process.env.WORKTYPE
+  WORKTYPE: process.env.WORKTYPE === undefined ? 'private' : process.env.WORKTYPE
 };
 
 
